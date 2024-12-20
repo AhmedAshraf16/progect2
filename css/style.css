@@ -1,0 +1,52 @@
+body {
+    background-color: #212529;
+    color: white;
+}
+.img:hover{
+    transition-duration: 0.5s;
+    transform: scale(1.20);
+    box-shadow: 0 8px 16px rgb(6, 191, 228);
+}
+
+.navbar {
+    background-color: #2d2f33; 
+}
+#h1{
+    color: white;
+}
+#h2{
+    color: white;
+}
+#h3{
+    color: white;
+}
+
+.btn-primary {
+    background-color: #6c757d;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #5a6268;
+}
+
+.footer {
+    background-color: #7b7c7f;
+    padding: 20px 0;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+#aa{
+    margin: auto;
+    margin-right:20px;
+    text-align: center;
+   
+
+}
